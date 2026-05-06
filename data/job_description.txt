@@ -1,0 +1,6 @@
+Position: Senior Python Developer
+Technical Stack: Expert in Python, FastAPI, and Streamlit.
+Database: Knowledge of SQL and database management using SQLite and PostgreSQL.
+AI/ML: Familiarity with Machine Learning, NLP, and technical analysis tools like RSI and Bollinger Bands.
+DevOps: Proficiency in Git and GitHub for version control.
+Domain: Experience in building financial technology dashboards or fintech applications.
